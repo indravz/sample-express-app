@@ -1,0 +1,15 @@
+{
+  "name": "express-pod-hostname",
+  "version": "1.0.0",
+  "description": "Express app to display pod's hostname",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Indras",
+  "license": "MIT"
+}
+
